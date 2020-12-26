@@ -1,0 +1,9 @@
+$theme-colors: (
+     "primary": #7a0942
+);
+@import "node_modules/bootstrap/scss/bootstrap";
+body {
+    color: white;
+    background: rgb(63, 60, 60);
+    height: 400vh;
+}
